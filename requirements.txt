@@ -1,0 +1,6 @@
+gradio
+langchain
+gtts
+speechrecognition
+duckduckgo-search
+ollama
